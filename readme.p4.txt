@@ -1,2 +1,2 @@
 Name : Yash Vaidya
-Email : yvaidya6@gatech.edu
+Email : yvaidya6@gatech.edu 

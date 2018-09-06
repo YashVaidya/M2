@@ -32,7 +32,7 @@ public class Person4 {
     private String calc(String input) {
       //Person 4 put your implementation here
       String c = "";
-      for(int i = 0;i<input.length();i++) {
+      for(int i = 0;i<input.length() -1;i++) {
         char k  = input.charAt(i);
         k--;
         c = c + k;
@@ -40,7 +40,7 @@ public class Person4 {
       }
       return c;
     }
-    }
+    
     
     /**
      * Return a string rep of this object

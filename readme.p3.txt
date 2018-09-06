@@ -1,2 +1,2 @@
-Name: Sunjith Achanta
-Email: sachanta6@gatech.edu
+Name : Sunjith Achanta
+email : sachanta6@gatech.edu

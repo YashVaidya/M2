@@ -1,2 +1,2 @@
 Name : Odelia Huang
-Email : deelyohuang@gmail.com
+Email : ohuang6@gatech.edu
